@@ -1,7 +1,7 @@
 # tailwind-home
 - [Demo Project](https://mohananoruztabar.github.io/tailwind-home/index1.html)
 
-- ![Image](https://github.com/user-attachments/assets/46533f99-a754-4da0-80a9-93936aa5a894)
+- ![Image]![Image](https://github.com/user-attachments/assets/eb304cb2-9ba4-4a72-aef9-0fa6fc3e3b52)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
